@@ -1,0 +1,26 @@
+
+# Frontend
+**/node_modules/
+**/dist/
+**/dist-ssr/
+
+# Backend (.NET)
+**/bin/
+**/obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Secrets
+**/secrets.json
+
+# Operating system
+.DS_Store
+Thumbs.db
